@@ -1746,6 +1746,7 @@ Posts and Telecommunications*). [[Paper](https://arxiv.org/abs/2204.08696)]
 * **XBound-Former**: "XBound-Former: Toward Cross-scale Boundary Modeling in Transformers", arXiv, 2022 (*Xiamen University*). [[Paper](https://arxiv.org/abs/2206.00806)][[PyTorch](https://github.com/jcwang123/xboundformer)]
 * **Polyp-PVT**: "Polyp-PVT: Polyp Segmentation with Pyramid Vision Transformers", arxiv, 2022 (*IIAI*). [[Paper](https://arxiv.org/abs/2108.06932)][[PyTorch](https://github.com/DengPingFan/Polyp-PVT)]
 * **SeATrans**: "SeATrans: Learning Segmentation-Assisted diagnosis model via Transformer", arXiv, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2206.05763)]
+* **SA2-Net**: "SA2-Net: Scale-aware Attention Network for Medical Image Segmentation", BMVC--Oral, 2023 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2309.16661)][[PyTorch](https://github.com/mustansarfiaz/SA2-Net)]
 
 [[Back to Overview](#overview)]
 
