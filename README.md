@@ -649,6 +649,9 @@ Feel free to share this list with others!
 * Person Search:
     * **COAT**: "Cascade Transformers for End-to-End Person Search", CVPR, 2022 (*Kitware*). [[Paper](https://arxiv.org/abs/2203.09642)][[PyTorch](https://github.com/Kitware/COAT)]
     * **PSTR**: "PSTR: End-to-End One-Step Person Search With Transformers", CVPR, 2022 (*Tianjin University*). [[Paper](https://arxiv.org/abs/2204.03340)][[PyTorch](https://github.com/JialeCao001/PSTR)]
+    * **PS-ARM**: "PS-ARM: An End-to-End Attention-aware Relation Mixer Network for Person Search", ACCV, 2022 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2210.03433)][[PyTorch](https://github.com/mustansarfiaz/PS-ARM)]
+    * **SAT**: "SAT: Scale-Augmented Transformer for Person Search", WACV, 2023 (*MBZUAI*). [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Fiaz_SAT_Scale-Augmented_Transformer_for_Person_Search_WACV_2023_paper.pdf)][[PyTorch](https://github.com/mustansarfiaz/SAT)]
+    * **DDAM-PS**: "DDAM-PS: Diligent Domain Adaptive Mixer for Person Search", WACV, 2024 (*MBZUAI*). [[Paper](https://arxiv.org/abs/2310.20706)][[PyTorch](https://github.com/mustansarfiaz/DDAM-PS)]
 * Manipulation Detection:
     * **ObjectFormer**: "ObjectFormer for Image Manipulation Detection and Localization", CVPR, 2022 (*Fudan University*). [[Paper](https://arxiv.org/abs/2203.14681)]
 * Grounded Situation Recognition:
